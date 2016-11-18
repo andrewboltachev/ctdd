@@ -6,7 +6,7 @@
   :version      "0.1.0-SNAPSHOT"
   :dependencies '[
                   [ns-tracker "0.2.2"]
-                  [adzerk/boot-reload        "0.2.6"]
+                  [adzerk/boot-reload        "0.4.13"]
                   [fipp "0.5.2"]
                   ]
   :source-paths    #{"src"}
